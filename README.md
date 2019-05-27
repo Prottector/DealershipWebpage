@@ -1,2 +1,8 @@
 # DealershipWebpage
-Short webpage written in html css for car dealerships
+
+
+Open index.html in order to open the website
+
+This website is an example of dealership website.
+
+More functionality coming
